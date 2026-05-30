@@ -1,0 +1,1 @@
+print("Assalam 0 Alikum! I am in Python")
